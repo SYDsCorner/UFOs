@@ -8,8 +8,7 @@ UFO Sightings with JavaScript
 
 ### Purpose:
    The purpose of this analysis is to provide a more in-depth analysis of UFO sightings by using HTML and JavaScript. This webpage allows users to filter the table on multiple criteria at the same time. 
-In addition to the date, I added filters for the city, state, country, and shape in the HTML file. In the JavaScrpt file, there is one new function that saves the element, value, and id of the filter that was changed 
-and another new function that loops through the dataset and keeps only the results that match the search criteria.
+In addition to the date, I added filters for the city, state, country, and shape in the HTML file. In the JavaScrpt file, there is one new function that saves the element, value, and id of the filter that was changed and another new function that loops through the dataset and keeps only the results that match the search criteria.
 
 
 ## Resources
@@ -19,7 +18,7 @@ and another new function that loops through the dataset and keeps only the resul
    - JavaScript
    - BootStrap 4
 
-- Data sourced: 
+- Data source: 
    - [data.js](https://github.com/SYDsCorner/UFOs/blob/main/static/js/data.js)   
 
 
