@@ -24,7 +24,7 @@ In addition to the date, I added filters for the city, state, country, and shape
 
 ## Results 
 
-- The webpage is "[UFO Sighting: The Truth Is Out There](https://sydscorner.github.io/UFOs/)" 
+> The Truth Is Out There >> [Link to GitHub Pages](https://sydscorner.github.io/UFOs/)
 
 - The process of using the search criteria:
    - The users will be able to search by typing in the boxes on the left hand. They can use the filters by inputting criteria in the boxes and pressing "Enter".
